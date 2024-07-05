@@ -1,6 +1,6 @@
 {
   "name": "type-asset-paths",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate TypeScript type definitions for asset paths",
   "main": "index.js",
   "scripts": {
