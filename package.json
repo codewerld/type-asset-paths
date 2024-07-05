@@ -1,10 +1,13 @@
 {
   "name": "type-asset-paths",
   "version": "1.0.0",
-  "description": "Generate type path for assets",
+  "description": "Generate TypeScript type definitions for asset paths",
   "main": "index.js",
+  "bin": {
+    "generate-asset-paths": "./cli.js"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generate-asset-paths": "node ./cli.js"
   },
   "repository": {
     "type": "git",
