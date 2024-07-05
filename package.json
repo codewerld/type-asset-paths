@@ -1,0 +1,24 @@
+{
+  "name": "type-asset-paths",
+  "version": "1.0.0",
+  "description": "Generate type path for assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewerld/type-asset-paths.git"
+  },
+  "keywords": [
+    "type",
+    "asset",
+    "paths"
+  ],
+  "author": "codewerld",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewerld/type-asset-paths/issues"
+  },
+  "homepage": "https://github.com/codewerld/type-asset-paths#readme"
+}
